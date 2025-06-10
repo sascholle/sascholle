@@ -18,6 +18,6 @@ _Currently working at the Alfred Wegener Institute for Polar and Marine Research
 
 _Looking forward to starting my Masters Degree this coming Winter and delving deeper into ML for dynamic system modelling._
 
-_Worked as a Tutor within the Kietzmnn Lab for Machine Learning for Cognitive Computational Neuroscience for 2 years._
+_Worked as a tutor within the Kietzmann Lab for Machine Learning for Cognitive Computational Neuroscience for 2 years._
 
 _Wrote my BSc thesis titled "Deep Learning for fMRI Functional Alignment: Multi-subject autoencoder network for learning a shared latent space for neural activity."_
