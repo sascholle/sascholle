@@ -14,6 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-_Currently working at the Alfred Wegener Insstitute for Polar and Marine Research on fine-tuning foundational LLMs for bias correcting Arctic temperature predictions._
+_Currently working at the Alfred Wegener Institute for Polar and Marine Research on fine-tuning a foundational Transformer model AtmoRep, for bias correcting Arctic temperature predictions._
 
 _Looking forward to starting my Masters Degree this coming Winter and delving deeper into ML for dynamic system modelling._
+
+_Worked as a Tutor within the Kietzmnn Lab for Machine Learning for Cognitive Computational Neuroscience for 2 years._
+
+_Wrote my BSc thesis titled "Deep Learning for fMRI Functional Alignment: Multi-subject autoencoder network for learning a shared latent space for neural activity."_
